@@ -1,7 +1,7 @@
 # 常用的一些扩展类库
 
 
-> 以下类库都在`\\library\\helper`命名空间下
+> 以下类库都在`\\Ash\\Helper`命名空间下
 
 ## Str
 
@@ -71,7 +71,7 @@ $objCurrencyAmount = new CurrencyAmount();
  * 获取对象属性方法
  *
  * 返回对象数据结构，例如:
- * library\format\Currency Object
+ * Ash\Format\Currency Object
  *  (
  *   [currency:protected] => GBP
  *   [amount:protected] => 100
